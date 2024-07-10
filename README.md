@@ -1,5 +1,5 @@
 <div align="center">
-<h1><img src='/assets/x.svg' width="40px"> MoSt-DSA <img src='/assets/Dove of peace.gif' width="40px"></h1>
+<h1><img src='/assets/x.svg' width="40px"> MoSt-DSA <img src='/assets/Dove_of_Peace.gif' width="40px"></h1>
 <h3>Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images</h3>
 
 [Ziyang Xu](https://ziyangxu.top/)<sup>1</sup>, Huangxuan Zhao<sup>2</sup>, [Ziwei Cui](https://github.com/ziwei-cui)<sup>1</sup>, [Wenyu Liu](http://eic.hust.edu.cn/professor/liuwenyu/)<sup>1</sup>, Chuansheng Zheng<sup>2</sup>, [Xinggang Wang](https://xwcv.github.io/)<sup>1 :email:</sup>
