@@ -235,6 +235,17 @@ This project is based on [EMA-VFI](https://github.com/MCG-NJU/EMA-VFI), [Lambda 
 ## 💖 Citation
 If you find MoSt-DSA is useful in your research or applications, please feel free to give us a star 🌟 and cite our paper:
 ```shell
+@InProceedings{Xu2024MoSt-DSA,
+      title={MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images},
+      author={Ziyang Xu and Huangxuan Zhao and Ziwei Cui and Wenyu Liu and Chuansheng Zheng and Xinggang Wang},
+      booktitle={European Conference on Artificial Intelligence},
+      pages={537-544},
+      year={2024},
+      url={https://ebooks.iospress.nl/pdf/doi/10.3233/FAIA240531},
+}
+```
+or
+```shell
 @misc{Xu2024MoSt-DSA,
       title={MoSt-DSA: Modeling Motion and Structural Interactions for Direct Multi-Frame Interpolation in DSA Images},
       author={Ziyang Xu and Huangxuan Zhao and Ziwei Cui and Wenyu Liu and Chuansheng Zheng and Xinggang Wang},
